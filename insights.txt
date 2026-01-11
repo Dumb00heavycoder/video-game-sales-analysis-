@@ -1,6 +1,0 @@
-Insights gained while understanding the data
-Shape:- (16598, 11)
-features name and type:- [('Rank',int), ('Name',object), '(Platform',object), ('Year',float), ('Genre',object), ('Publisher',object),('NA_Sales',float),('EU_Sales',float), ('JP_Sales',float), ('Other_Sales',float), ('Global_Sales,float)']
-
-
-
